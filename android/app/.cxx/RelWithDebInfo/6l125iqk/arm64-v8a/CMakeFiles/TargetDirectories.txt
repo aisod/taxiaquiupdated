@@ -1,0 +1,2 @@
+C:/Users/Joel Tiago/Downloads/newest/taxaqui (1)23/taxaqui (1)23/android/app/.cxx/RelWithDebInfo/6l125iqk/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Joel Tiago/Downloads/newest/taxaqui (1)23/taxaqui (1)23/android/app/.cxx/RelWithDebInfo/6l125iqk/arm64-v8a/CMakeFiles/rebuild_cache.dir

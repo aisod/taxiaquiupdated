@@ -1,0 +1,2 @@
+C:/Users/Joel Tiago/Downloads/newest/taxaqui (1)23/taxaqui (1)23/android/app/.cxx/Debug/3737331a/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Joel Tiago/Downloads/newest/taxaqui (1)23/taxaqui (1)23/android/app/.cxx/Debug/3737331a/armeabi-v7a/CMakeFiles/rebuild_cache.dir
